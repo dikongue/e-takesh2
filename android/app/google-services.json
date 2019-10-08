@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "386087135033",
+    "firebase_url": "https://e-takesh-client-1549445223093.firebaseio.com",
+    "project_id": "e-takesh-client-1549445223093",
+    "storage_bucket": "e-takesh-client-1549445223093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386087135033:android:91d571868bc4fd95",
+        "android_client_info": {
+          "package_name": "net.etakesh.etakeshclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386087135033-q1dep400b81g8q3blfvkbke5uhdv216p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.etakesh.etakeshclient",
+            "certificate_hash": "a9396e275b7bfd7989e396a833006feabaf4e861"
+          }
+        },
+        {
+          "client_id": "386087135033-p6ep6uv8c9j0ldmgropljlblk61fhhbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqV0vgCSR__QP_h0hSnPDx-06Tf1CLqr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386087135033-p6ep6uv8c9j0ldmgropljlblk61fhhbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
